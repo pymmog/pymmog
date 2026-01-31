@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pymmog&show_icons=true&theme=rose_pine)
+![Image](https://github.com/user-attachments/assets/d466ba82-9ff0-40e7-a212-2ae805b80298)
