@@ -1,5 +1,4 @@
-doing it for the love of the game
-
+### doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
 ```
 ⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
 ⡇⢸⣿⡟⠛⢿⣷⠀⢸⣿⡟⠛⢿⣷⡄⢸⣿⡇⠀⢸⣿⡇⢸⣿⡇⠀⢸⣿⡇⠀
@@ -22,6 +21,8 @@ doing it for the love of the game
 ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 ```
+
 ![Stats](./profile/stats.svg)
 
-![Image](https://github.com/user-attachments/assets/d466ba82-9ff0-40e7-a212-2ae805b80298)
+> [!IMPORTANT]
+> ![Image](https://github.com/user-attachments/assets/d466ba82-9ff0-40e7-a212-2ae805b80298)
