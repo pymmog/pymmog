@@ -1,4 +1,7 @@
 ### doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
+
+![Langs](./profile/top-langs.svg)
+
 ```
 ⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
 ⡇⢸⣿⡟⠛⢿⣷⠀⢸⣿⡟⠛⢿⣷⡄⢸⣿⡇⠀⢸⣿⡇⢸⣿⡇⠀⢸⣿⡇⠀
