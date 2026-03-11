@@ -1,9 +1,9 @@
 # doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
 <a href="https://github.com/pymmog">
-  <img height=200 align="top" src="./profile/top-langs.svg" />
+  <img height=250 align="top" src="./profile/top-langs.svg" />
 </a>
 <a href="https://github.com/pymmog">
-  <img height=200 align="top" src="./profile/stats.svg" />
+  <img height=250 align="top" src="./profile/stats.svg" />
 </a>
 
 ---
