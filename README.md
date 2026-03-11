@@ -1,12 +1,12 @@
-### doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
-
+# doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
 <a href="https://github.com/pymmog">
-  <img height=350 align="top" src="./profile/top-langs.svg" />
+  <img height=200 align="top" src="./profile/top-langs.svg" />
 </a>
 <a href="https://github.com/pymmog">
-  <img height=350 align="top" src="./profile/stats.svg" />
+  <img height=200 align="top" src="./profile/stats.svg" />
 </a>
 
+---
 
 ```
 ⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
@@ -31,6 +31,7 @@
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 ```
 
+---
 
 > [!IMPORTANT]
 > ![Image](https://github.com/user-attachments/assets/d466ba82-9ff0-40e7-a212-2ae805b80298)
