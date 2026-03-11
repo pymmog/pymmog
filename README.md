@@ -1,11 +1,13 @@
 ### doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
 
+<div>
 <a href="https://github.com/pymmog">
   <img height=350 align="center" src="./profile/top-langs.svg" />
 </a>
 <a href="https://github.com/pymmog">
   <img height=350 align="center" src="./profile/stats.svg" />
 </a>
+</div>
 
 ```
 ⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
