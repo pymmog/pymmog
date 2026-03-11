@@ -1,6 +1,11 @@
 ### doing it for the $${\color{pink}love}$$ of the $${\color{lightblue}game }$$
 
-![Langs](./profile/top-langs.svg)
+<a href="https://github.com/pymmog">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
+</a>
+<a href="https://github.com/pymmog">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
 
 ```
 ⡏⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠉⠉⠉⠹
@@ -25,7 +30,6 @@
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 ```
 
-![Stats](./profile/stats.svg)
 
 > [!IMPORTANT]
 > ![Image](https://github.com/user-attachments/assets/d466ba82-9ff0-40e7-a212-2ae805b80298)
