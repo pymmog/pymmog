@@ -1,9 +1,4 @@
-<a href="https://github.com/pymmog">
-  <img height=250 align="top" src="./profile/top-langs.svg" />
-</a>
-<a href="https://github.com/pymmog">
-  <img height=250 align="top" src="./profile/stats.svg" />
-</a>
+<img src="assets/github-stats.svg" alt="GitHub stats" width="100%">
 
 ---
 
